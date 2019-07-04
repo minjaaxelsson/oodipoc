@@ -4,6 +4,8 @@
 An emotion library for a robot.
 """
 import numpy as np
+__author__ = "@minjaaxelsson"
+__license__ = "MIT"
 
 
 class Emotion:
